@@ -1,2 +1,0 @@
-	
-A blank file so I can create the mipmap folder.
