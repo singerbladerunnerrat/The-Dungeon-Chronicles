@@ -1,2 +1,0 @@
-		
-This is a blank file created so I could make the "drawable" folder.
