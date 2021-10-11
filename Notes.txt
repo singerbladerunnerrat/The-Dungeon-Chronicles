@@ -1,2 +1,8 @@
 	
+build android app on github
+
 https://ncorti.com/blog/howto-github-actions-building-android
+
+gradle build github actions
+
+https://docs.github.com/en/actions/automating-builds-and-tests/building-and-testing-java-with-gradle
