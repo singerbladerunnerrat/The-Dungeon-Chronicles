@@ -1,2 +1,0 @@
-	
-This is a blank file so I can create the "res" directory.
